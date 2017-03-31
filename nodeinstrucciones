@@ -1,0 +1,17 @@
+npm init, npm i -S express--> abstraccion de NodeJS 
+npm i -S morgan --> logs 
+npm i -D nodemon --> para no tener q estar cagando el servidor de node; pero este toca ponerlo en el package json en el script
+-S es para guardar en json las dependencias en el github
+-D es solo en nuestro proyecto
+-G es globalmente en nuesta maquina
+
+para poder correr el script de nodemon--> npm run dev --> donde dev es el nombre del escript q esta en el json
+
+get pedir
+post mandar,enviar
+put actualizar
+delete borrar
+
+post es por las cabeceras
+
+
